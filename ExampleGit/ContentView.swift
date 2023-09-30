@@ -25,5 +25,5 @@ struct ContentView: View {
     ContentView()
 }
 func pressedHi(){
-    print("Hello")
+    print("Hello World")
 }
