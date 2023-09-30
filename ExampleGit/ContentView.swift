@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, World")
+            Text("Hello, Swift World")
             Button("hello", action: pressedHi)
             
         }
